@@ -15,5 +15,5 @@ class Person
   
 end
 
-person.new("Frank")
+Person.new("Frank")
 
